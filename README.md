@@ -1,4 +1,4 @@
-# Hello Github
+# Hello Brilliant Github
 
 This is a README.md file that will be used to describe this
 repository on Github.
