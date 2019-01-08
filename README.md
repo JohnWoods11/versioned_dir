@@ -9,4 +9,4 @@ of README.md in the cloned repository
 This line of text has been added to README.md in the
 original repository.
 
-The clone is the best.
+Git is the best.
